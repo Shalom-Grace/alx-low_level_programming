@@ -2,7 +2,7 @@
 
 /**
  *_strlen - swaps the values of two integers
- *@s String input
+ *@s: String input
  *
  * Return: Lenght of string
  */
