@@ -8,7 +8,9 @@ Tested on Ubuntu 14.04 LTS
 Files
 All of the following files are programs written in C:
 
-Filename	Description
+Filename	                  Description
+
+
 0-print_list.c	Prints all the elements of a list_t list
 
 
